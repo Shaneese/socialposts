@@ -51,5 +51,11 @@ end
   
   gem 'simple_form'
   
+  gem 'omniauth-twitter'
+  
   gem 'devise'
+  
+  gem 'dotenv-rails'
+  
+  gem 'omniauth-facebook'
 
